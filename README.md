@@ -13,8 +13,6 @@ This Repository Contains Employee Mangagement project which is suitable for scho
  6. Search a record. 
  7. Sort the table.
 
-<br />
-
 ---
 
 # Tic Tac Toe Game
@@ -25,8 +23,6 @@ If you have not played Tic Tac Toe and are not familiar with the game, here is a
  4. Shows Win, Loss and Draw message
  5. Clear Screen on Every user Input
  6. Very Easy to Play
-
-<br />
 
 ---
 
