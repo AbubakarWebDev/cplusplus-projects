@@ -32,6 +32,35 @@ Features:
 4. Win, loss, and draw messages
 5. Screen cleared on every move
 
+### Student Grade Calculator
+[`student-grade-calculator/`](student-grade-calculator)
+
+Calculates letter grades (A–F) for a class of 50 students across 5 subjects, based on each student's average percentage, and reports how many students fall into each grade bracket.
+
+### Templated Set Class
+[`templated-set-class/`](templated-set-class)
+
+A generic `Set<T>` class template backed by a dynamic array, supporting any type (`int`, `float`, custom classes, etc.). Demonstrates C++ templates, dynamic memory management, and operations like push and resize.
+
+### Dynamic Array
+[`dynamic-array/`](dynamic-array)
+
+A minimal dynamic array implementation that grows its backing store as elements are inserted, demonstrating manual memory management with `new`/`delete` in C++.
+
+### Array & Pointer Examples
+[`array-pointer-examples/`](array-pointer-examples)
+
+A set of small, self-contained programs demonstrating array and pointer fundamentals: swapping values, sorting and reversing arrays, and traversing/reversing C-strings with pointers.
+
+### Linked List Coding Problems
+[`linked-list-coding-problems/`](linked-list-coding-problems)
+
+Solutions to a set of linked list coding problems:
+- `find-pivot.cpp` — finds the index where all preceding elements are smaller and all following elements are larger
+- `sorted-doubly-linked-list.cpp` — a doubly linked list that keeps itself sorted on insert
+- `no-three-ascending-linked-list.cpp` — a linked list that rearranges itself so no three adjacent nodes are in ascending order
+- `merge-sorted-linked-lists.cpp` — merges two sorted linked lists into a single sorted list
+
 ## License
 
 This repository is licensed under the [GNU General Public License v3.0](LICENSE).
